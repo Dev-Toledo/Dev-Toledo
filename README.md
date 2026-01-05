@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Dev-Toledo
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML & CSS, C/C++ and Python
-- 📫 How to reach me: caiotoledo07@gmail.com
-- ✨ I'm looking for an Intership, ready and excited to learn and help as soon as possible.
+### Hi there, I'm Caio Toledo! 👋
+#### Operations Research | Mathematical Optimization | Python Developer
 
-<!---
-Dev-Toledo/Dev-Toledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Systems Analysis and Development undergrad passionate about solving complex logistic problems using math and code. My focus is on Combinatorial Optimization and Exact Methods.
+
+🔭 **Currently working on:**
+- A **Traveling Tournament Problem (TTP)** solver for the Brazilian Football Championship (Serie B) using **Python & Gurobi**.
+
+🛠 **Tech Stack:**
+- **Languages:** Python (Pandas, NumPy), C++, SQL.
+- **Solvers & Tools:** Gurobi Optimizer, Linear Programming (LP), MIP, Heuristics.
+
+📫 **Contact:** [caiotoledo07@gmail.com](mailto:caiotoledo07@gmail.com)
